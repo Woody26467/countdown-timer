@@ -16,6 +16,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+  overflow: hidden;
 }
 
 .custom-slider {
@@ -33,4 +34,11 @@ body {
 h1 {
   font-size: 100px;
   margin: 0;
+}
+
+.circle {
+  width: 10px;
+  height: 10px;
+  border-radius: 5px;
+  position: absolute;
 }

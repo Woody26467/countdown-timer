@@ -18,6 +18,18 @@ body {
   align-items: center;
 }
 
+.custom-slider {
+  width: 223px;
+  height: 20px;
+  background-color: rgba(255, 255, 255, 0.5);
+}
+
+.fill {
+  height: 20px;
+  background-color: rgb(125, 249, 208);
+  width: 100%;
+}
+
 h1 {
   font-size: 100px;
   margin: 0;
